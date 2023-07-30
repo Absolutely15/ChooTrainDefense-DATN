@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bae298f88d2b254590f29aff8f881f8, type: 3}
+  m_Name: Game Database
+  m_EditorClassIdentifier: 
+  playerUpgradeData: {fileID: 11400000, guid: 7277eb065f6cb5748879f2ca1fc61fe4, type: 2}
+  weaponUpgradeData: {fileID: 11400000, guid: 0a748000488c7394da37d92125e39243, type: 2}
+  weaponList:
+  - {fileID: 11400000, guid: 43f7b3276064a3c4db68430beade1b1e, type: 2}
+  - {fileID: 11400000, guid: 94a3f217433b96844a79a45f173c7934, type: 2}
+  - {fileID: 11400000, guid: 0ba799df1c9af4942b9cfd3a3dd768e1, type: 2}
+  - {fileID: 11400000, guid: 56e83222f7c3e084e9b64027c764eae3, type: 2}
+  - {fileID: 11400000, guid: a5a7a516e7b50e543a97ee8b3f5c3648, type: 2}
+  - {fileID: 11400000, guid: 68d0b6b57e92a49439800ce6080fcb89, type: 2}
+  - {fileID: 11400000, guid: f5151b94c8d7e3f4295613bc9e5e4e1a, type: 2}
+  - {fileID: 11400000, guid: 2180e36cb3254e7498afb23e5171cacc, type: 2}
+  - {fileID: 11400000, guid: 9b60e9fcb41e71f47898b2bb9dbff57c, type: 2}
+  - {fileID: 11400000, guid: 8ceac4905b827a84badd49d254d85233, type: 2}
+  - {fileID: 11400000, guid: 878e083d0ac4f6e429e4a7f717d7005d, type: 2}
+  - {fileID: 11400000, guid: 4d9ce786dabd8114aa5778053b25550a, type: 2}
+  - {fileID: 11400000, guid: 561ccb5100253894688a84c57609e666, type: 2}
+  skinDatas:
+  - {fileID: 11400000, guid: 0cf269d85b7366542b9a81d721c1ae46, type: 2}
+  - {fileID: 11400000, guid: 1372de83f81fcfe488d7ecf26794db91, type: 2}
+  - {fileID: 11400000, guid: d1669f5acb5c07445a474a419f875134, type: 2}
+  - {fileID: 11400000, guid: 80e4714ed2632be439dbf0c99e2c65cc, type: 2}
+  - {fileID: 11400000, guid: fb25e0d3ca7f7aa4e8f20ae993e0e577, type: 2}
+  - {fileID: 11400000, guid: b01668872786a3d4fa59ce7319952dc8, type: 2}
+  - {fileID: 11400000, guid: c820a44431903574683dbddae8f10ff5, type: 2}
+  mapData: {fileID: 11400000, guid: 07e7cabc68913264bab3b09cbb77d1db, type: 2}
+  barrierData: {fileID: 11400000, guid: 389ffbf03e0b66049b81d75a8cbe614e, type: 2}
+  trapData: {fileID: 11400000, guid: c42efda9d8354184ab787d273f747b40, type: 2}
+  guardUpgradeData: {fileID: 11400000, guid: eee4a26e7718ba74a85c62a0241496c9, type: 2}
+  currencyBonusData: {fileID: 11400000, guid: fb2fd342fa84d614dbe0760d9c48f08d, type: 2}
+  iapNonConsumableData: {fileID: 11400000, guid: c8c9297adc4dda64c8d62ae3b2af9e90, type: 2}

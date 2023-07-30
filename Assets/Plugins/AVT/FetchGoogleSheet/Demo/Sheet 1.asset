@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 613c64d40c3fa2845add40de76e8bc88, type: 3}
+  m_Name: Sheet 1
+  m_EditorClassIdentifier: 
+  sheetUrl: https://docs.google.com/spreadsheets/d/e/2PACX-1vR8LpJ_l8SSKQ-LKXH2JevN7KqJqMrY2V8yFCexxmmJUUVi5M0Om6rk22EFiGaiovpi3M1oRlYxMXVf/pub?output=csv
+  range: J2:N51
+  units: []

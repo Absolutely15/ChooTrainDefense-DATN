@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e969c7bc5e4da754da8fb26fd2fc9249, type: 3}
+  m_Name: Boss 0
+  m_EditorClassIdentifier: 
+  zombieName: 
+  health: b80b000088130000581b0000
+  moveSpeed:
+  - 0.2
+  - 0.4
+  - 0.4
+  attackDoorRange: 2
+  attackRange: 0.3
+  damageDealtToDoor: 030000000300000004000000
+  atkDoorCD:
+  - 1
+  - 0.5
+  - 0.5
+  damageDealtToPlayer: 1
+  randomSpreadRange: 0.4
+  goldDropPerUnit: 1e0000003c00000064000000
+  diamondDropPerUnit: 0
+  explosiveDamage: 
+  URL: https://docs.google.com/spreadsheets/d/e/2PACX-1vQtoWA-Xdd5YIa3UiBfVwmoL2vu21Y43jMamP-ZfMwjqKpNeXF9edW1wbCKmWm2SO9tPmDg7A1dOqM7/pub?gid=1824596927&single=true&output=csv
+  healthRF: AP3:AP5
+  damageDealtToDoorRF: AQ3:AQ5
+  atkDoorCDRF: AS3:AS5
+  moveSpeedRF: AR3:AR5
+  explosiveDamageRF: 

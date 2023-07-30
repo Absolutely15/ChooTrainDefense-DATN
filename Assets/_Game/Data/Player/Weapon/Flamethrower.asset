@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29d2cd5c27b2fa46b1db9c9cd46a9b7, type: 3}
+  m_Name: Flamethrower
+  m_EditorClassIdentifier: 
+  id: 5
+  itemName: Flamethrower
+  description: Fire range
+  icon: {fileID: 21300000, guid: 9e90748c1ac628248a4a91dc65b37d8a, type: 3}
+  goldenIcon: {fileID: 21300000, guid: 43a6d6fbe667a254eacfb805bc88bbf6, type: 3}
+  stats:
+  - damage: 50
+    fireRate: 0.5
+  - damage: 60
+    fireRate: 0.5
+  - damage: 60
+    fireRate: 0.5
+  - damage: 70
+    fireRate: 0.4
+  fireRange: 1.5
+  projectileMoveSpeed: 5
+  upgradeCost: 70170000e02e0000e02e0000
+  isDiscoveredInWorld: 0
+  unlockGoldCost: 9000
+  unlockDiamondCost: 500
+  goldenDiamondCost: 100
+  isPremium: 1

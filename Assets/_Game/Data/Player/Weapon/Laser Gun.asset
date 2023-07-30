@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29d2cd5c27b2fa46b1db9c9cd46a9b7, type: 3}
+  m_Name: Laser Gun
+  m_EditorClassIdentifier: 
+  id: 7
+  itemName: Laser Gun
+  description: Laser penetration
+  icon: {fileID: 21300000, guid: 49efb93d08485594ab6a97096b09a0ef, type: 3}
+  goldenIcon: {fileID: 21300000, guid: 1ca04b4972c971b44b585432b338f25d, type: 3}
+  stats:
+  - damage: 50
+    fireRate: 0.2
+  - damage: 55
+    fireRate: 0.2
+  - damage: 55
+    fireRate: 0.1
+  - damage: 60
+    fireRate: 0.1
+  fireRange: 2.05
+  projectileMoveSpeed: 5
+  upgradeCost: 70170000e02e000050460000
+  isDiscoveredInWorld: 0
+  unlockGoldCost: 0
+  unlockDiamondCost: 500
+  goldenDiamondCost: 100
+  isPremium: 1

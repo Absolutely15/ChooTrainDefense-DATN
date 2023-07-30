@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "266301919917",
+    "project_id": "at-soft-2---publishing",
+    "storage_bucket": "at-soft-2---publishing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266301919917:android:c8a3e6ee91fb25c4306c24",
+        "android_client_info": {
+          "package_name": "com.fidget.antistress.ata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1D70Wrp6WVRxG3ZG9bPWIHlSQ76yvZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266301919917-rm1rjjoelk4uqf9rv80u6dhulr51rj32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinite.zoom.find.object"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266301919917:android:ead3b99e46468be3306c24",
+        "android_client_info": {
+          "package_name": "com.infinite.zoom.find.object"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1D70Wrp6WVRxG3ZG9bPWIHlSQ76yvZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266301919917-rm1rjjoelk4uqf9rv80u6dhulr51rj32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinite.zoom.find.object"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266301919917:android:f0e5c049cae33a69306c24",
+        "android_client_info": {
+          "package_name": "com.zombie.defense.monster.train"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1D70Wrp6WVRxG3ZG9bPWIHlSQ76yvZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266301919917-84sc84b0hpjcvkrr4kk992dshf6i9tll.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266301919917-rm1rjjoelk4uqf9rv80u6dhulr51rj32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infinite.zoom.find.object"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

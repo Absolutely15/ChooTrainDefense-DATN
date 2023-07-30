@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b6cfe9d9316d394db95d3e6da63ddab, type: 3}
+  m_Name: Map 2
+  m_EditorClassIdentifier: 
+  gunDamageLevel: 13
+  gunFireRateLevel: 7
+  playerHealthLevel: 2
+  playerSpeedLevel: 2
+  guardLevel: 3
+  barrierLevel: 2
+  trapLevel: 2

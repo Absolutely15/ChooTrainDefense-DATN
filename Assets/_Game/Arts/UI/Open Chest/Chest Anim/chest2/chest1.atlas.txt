@@ -1,0 +1,69 @@
+
+chest1.png
+size: 1692,1692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 1087
+  size: 948, 600
+  orig: 950, 602
+  offset: 1, 1
+  index: -1
+coin
+  rotate: true
+  xy: 1428, 1154
+  size: 533, 259
+  orig: 535, 261
+  offset: 1, 1
+  index: -1
+eff1
+  rotate: false
+  xy: 470, 292
+  size: 393, 390
+  orig: 424, 422
+  offset: 16, 16
+  index: -1
+eff2
+  rotate: true
+  xy: 2, 210
+  size: 472, 466
+  orig: 500, 500
+  offset: 9, 30
+  index: -1
+laplanh
+  rotate: false
+  xy: 1428, 1016
+  size: 141, 136
+  orig: 159, 159
+  offset: 8, 12
+  index: -1
+light1
+  rotate: true
+  xy: 1346, 54
+  size: 797, 309
+  orig: 797, 309
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 952, 55
+  size: 796, 392
+  orig: 796, 392
+  offset: 0, 0
+  index: -1
+nap1
+  rotate: false
+  xy: 2, 684
+  size: 948, 401
+  orig: 950, 403
+  offset: 1, 1
+  index: -1
+nap2
+  rotate: true
+  xy: 952, 853
+  size: 834, 474
+  orig: 834, 474
+  offset: 0, 0
+  index: -1

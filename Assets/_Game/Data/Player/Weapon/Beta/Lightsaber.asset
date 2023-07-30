@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29d2cd5c27b2fa46b1db9c9cd46a9b7, type: 3}
+  m_Name: Lightsaber
+  m_EditorClassIdentifier: 
+  id: 10
+  itemName: Lightsaber
+  description: Light waves
+  icon: {fileID: 21300000, guid: 61fc9fb7616e96b438a5ec39ab0dd902, type: 3}
+  goldenIcon: {fileID: 0}
+  stats:
+  - damage: 50
+    fireRate: 5
+  - damage: 60
+    fireRate: 5
+  - damage: 70
+    fireRate: 6
+  - damage: 80
+    fireRate: 6
+  fireRange: 1.75
+  projectileMoveSpeed: 5
+  upgradeCost: 2c010000dc050000b80b0000
+  isDiscoveredInWorld: 10
+  unlockGoldCost: 0
+  unlockDiamondCost: 0
+  goldenDiamondCost: 50
+  isPremium: 0
